@@ -168,7 +168,7 @@ The following are suggested defaults. If you were following my naming convention
     apicup subsys set analyt mode dev
     apicup subsys set analyt coordinating-max-memory-gb 6
     apicup subsys set analyt data-max-memory-gb 6
-     apicup subsys set analyt master-max-memory-gb 6
+    apicup subsys set analyt master-max-memory-gb 6
 Deploy the subsystem using:
 
     apicup subsys install analyt
